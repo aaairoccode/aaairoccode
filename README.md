@@ -1,4 +1,4 @@
-Due to the requirement of anonymity, we can not share the database and model checkpoint we used, but we promise to open source if the paper is accepted.
+Due to the requirement of anonymity, we can not share the database and model checkpoint we used (google drive leaks the identity), but we promise to open source if the paper is accepted.
 Also, we are not allowed to . We only briefly describe the code.
 
 (1) Write lyrics in 'lyrics.txt', one line for each song. Set the lyrics language and a chord progression for each song in 'chord.txt'. We have provided bilingual examples in the two files.
